@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "hero",
+        "pack_format": 15,
+        "description": "hero addon",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}

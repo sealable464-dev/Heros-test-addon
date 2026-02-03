@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "bobbybuild11"
+    ],
+    "environment": "*",
+    "id": "hero",
+    "version": "1.0.0",
+    "name": "heros",
+    "description": "hero addon",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}
